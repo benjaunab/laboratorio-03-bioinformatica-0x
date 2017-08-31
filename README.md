@@ -16,7 +16,7 @@ _R_: El N50 es un valor estadistico que evalua la calidad de un ensamble, indica
 
 ### ¿Cuál es el propósito de calcular estas estadísticas?
 
-_R_:
+_R_: Este conjunto de estadiscticas ayudan a tener una referencia a las longitudes dentro de un contig y de esta forma ayudar en el ensamblaje del genoma.
 
 ### ¿Cuál es el genoma que escogiste? Adjunta la referencia.
 
@@ -25,7 +25,7 @@ _R_: Saccharomyces cerevisiae [Referencia](https://drive.google.com/file/d/0B0rz
 
 ### ¿Cuál es el N50 del genoma que escogiste? ¿Y el NG50?
 
-_R_:
+_R_: [Tabla](https://drive.google.com/file/d/0B0rzqm380_roYm1fNmdFdmdUTzA/view?usp=sharing)
 
 ### ¿Qué tipo de tecnología se uso para secuenciar el genoma que escogiste?
 
