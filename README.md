@@ -20,7 +20,7 @@ _R_: Este conjunto de estadiscticas ayudan a tener una referencia a las longitud
 
 ### ¿Cuál es el genoma que escogiste? Adjunta la referencia.
 
-_R_: Saccharomyces cerevisiae [Referencia](https://drive.google.com/file/d/0B0rzqm380_roVWpzamZNelYtRlk/view?usp=sharing)
+_R_: EL genoma Y22-3 [Referencia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4889671/)
  
 
 ### ¿Cuál es el N50 del genoma que escogiste? ¿Y el NG50?
@@ -29,8 +29,9 @@ _R_: [Tabla](https://drive.google.com/file/d/0B0rzqm380_roYm1fNmdFdmdUTzA/view?u
 
 ### ¿Qué tipo de tecnología se uso para secuenciar el genoma que escogiste?
 
-_R_:
+_R_: Usan  Illumina HiSeq y PacBio.  
 
 ### ¿Qué organismo escogiste, cuántos cromosomas tiene tu organismo y cuál es su tamaño?
 
-_R_: 
+_R_: Saccharomyces cerevisiae, posee 16 cromosomas y tiene un largo medio de 12.1246 (Mb)
+
