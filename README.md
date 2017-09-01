@@ -35,3 +35,28 @@ _R_: Usan  Illumina HiSeq y PacBio.
 
 _R_: Saccharomyces cerevisiae, posee 16 cromosomas y tiene un largo medio de 12.1246 (Mb)
 
+## Parte 2: Predicción de genes
+
+### ¿Cuántos ORF o genes encontró ORFfinder?
+
+_R_: ORFfinder encontro 7 ORC.
+
+### 	¿Cuántos ORF o genes encontró Glimmer?
+
+_R_: Glimmer encontro 10 ORC.
+
+### 	¿Alguno de los genes predichos por estas herramientas coinciden?
+
+_R_: coinciden con un gen que posee 441 nucleotidos.
+
+### ¿En qué hebra están codificados?
+
+_R_: El gen que coincide en ambas herremientas, ORFfinder muestra que esta en la hebra negativa, pero en GLIMMER aparece que es positiva.
+
+### 	¿Qué tipo de programa es GLIMMER? ¿Ab initio o por homología?
+
+_R_: Glimmer es un sistema para encontrar genes en el ADN microbiano, especialmente los genomas de bacterias, arqueas y virus. Utiliza modelos de Markov interpolados para identificar las regiones de codificación y distinguirlos del ADN no codificante, osea, funciona por homologias.
+
+### Describe los resultados encontrados con respecto a los genes que encontraste con GLIMMER y ORFfinder usando el BLAST.
+
+_R_: Con respecto a los genes entregados por ORFfinder, al usar el BLAST se encontraron 2 genes que no encontro semejanza significativ con la base de datos. Tambien se encontraron genes que poseían un gran puntaje de aliniamiento como bajos puntajes de alineamiento. En el caso de GLIMMER los 10 genes que se analizaron tuvieron una semejanza en la base de datos y el puntaje de alineamiento, en cada gen, fue bastante alta en comparacion a los resultados entregados por ORFfinder.
