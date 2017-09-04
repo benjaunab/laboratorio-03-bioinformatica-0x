@@ -33,7 +33,7 @@ _R_: Usan  Illumina HiSeq y PacBio.
 
 ### ¿Qué organismo escogiste, cuántos cromosomas tiene tu organismo y cuál es su tamaño?
 
-_R_: Saccharomyces cerevisiae, posee 16 cromosomas y tiene un largo medio de 12.1246 (Mb)
+_R_: _Saccharomyces cerevisiae_, posee 16 cromosomas y tiene un largo medio de 12.1246 (Mb)
 
 ## Parte 2: Predicción de genes
 
@@ -59,4 +59,4 @@ _R_: Glimmer es un sistema para encontrar genes en el ADN microbiano, especialme
 
 ### Describe los resultados encontrados con respecto a los genes que encontraste con GLIMMER y ORFfinder usando el BLAST.
 
-_R_: Con respecto a los genes entregados por ORFfinder, al usar el BLAST se encontraron 2 genes que no encontro semejanza significativo con la base de datos. Tambien se encontraron genes que poseían un gran puntaje de aliniamiento como bajos puntajes de alineamiento. En el caso de GLIMMER los 10 genes que se analizaron tuvieron una semejanza en la base de datos y el puntaje de alineamiento, en cada gen, fue bastante alta en comparacion a los resultados entregados por ORFfinder.
+_R_: Con respecto a los genes entregados por ORFfinder, al usar el BLAST se encontraron 2 genes que no encontro semejanza significativas con la base de datos. Tambien se encontraron genes que poseían un gran puntaje de aliniamiento como bajos puntajes de alineamiento. En el caso de GLIMMER los 10 genes que se analizaron tuvieron una semejanza en la base de datos y el puntaje de alineamiento, en cada gen, fue bastante alta en comparación a los resultados entregados por ORFfinder.
